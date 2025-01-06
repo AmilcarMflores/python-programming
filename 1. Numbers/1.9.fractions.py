@@ -14,5 +14,5 @@ print(Fraction(0.125))  # 1/8
 
 # Fraction("3 / 7") es una cadena que representa una fracción
 print(Fraction("3 / 7")) # 3/7
- 
+
 print(Fraction("-.125"))  # -1/8

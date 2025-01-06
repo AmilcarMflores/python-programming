@@ -1,5 +1,4 @@
 from decimal import Decimal as D
-# Explicación del código
 
 # Decimal es una clase que nos permite trabajar con números decimales
 print(D(3.14))  # 3.140000000000000124344978758017532527446746826171875

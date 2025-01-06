@@ -32,3 +32,7 @@ small_primes & bigger_primes # {5}
 
 # Diferencia con el operador -
 small_primes - bigger_primes # {2, 3}
+
+# Otra forma de crear un conjunto usando llaves
+small_primes = {2, 3, 5, 5, 7}
+print(small_primes) # {2, 3, 5, 7}
